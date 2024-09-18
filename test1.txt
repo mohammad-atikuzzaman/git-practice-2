@@ -5,4 +5,4 @@ git restore command successful.
 
 Now I have adding another line for staging.
 
-I am adding a line for commit and reset commit.
+I have edited the test1 file on reomote origin. and getin data using pull.
