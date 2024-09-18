@@ -2,3 +2,5 @@ This is test file 4.
 I have added another line attempt 1.
 I have added a line after commit.
 New line
+
+I have added another new line for branch new line

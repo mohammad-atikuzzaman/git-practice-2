@@ -8,3 +8,5 @@ Now I have adding another line for staging.
 I have edited the test1 file on reomote origin. and getin data using pull.
 
 New line
+
+I have added another new line for branch new line
