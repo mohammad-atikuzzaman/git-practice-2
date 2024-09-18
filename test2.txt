@@ -1,2 +1,3 @@
 this is text file  2
-I have added another line attempt 1
+I have added another line attempt 1.
+Line 3 changed on remote origin. test2 file.
